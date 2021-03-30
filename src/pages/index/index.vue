@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-24 13:13:37
- * @LastEditTime: 2021-03-30 10:45:18
+ * @LastEditTime: 2021-03-30 10:51:09
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \applets-shop\src\pages\index\index.vue
@@ -16,7 +16,7 @@
 
 
 
-    <a href="/pages/counter/main" class="counter">去往Vuex页面</a>
+    <a href="/pages/counter/main" class="counter">去往Vuex页面1</a>
 
   </div>
 </template>
