@@ -9,7 +9,7 @@
 vue init mpvue/mpvue-quickstart myproject
 cd myproject
 
-# 安装依赖
+# 安装依赖.
 yarn
 
 # 开发时构建
